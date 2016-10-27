@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../consoleFile/activemq-web/activemq-web.iml" filepath="$PROJECT_DIR$/../consoleFile/activemq-web/activemq-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../consoleFile/activemq-web-console/activemq-web-console.iml" filepath="$PROJECT_DIR$/../consoleFile/activemq-web-console/activemq-web-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webConsole.iml" filepath="$PROJECT_DIR$/webConsole.iml" />
+    </modules>
+  </component>
+</project>
